@@ -1,3 +1,3 @@
 def call(){
-  echo "hello jenkins"
+  echo "hello jenkins looks everythings fine"
 }
